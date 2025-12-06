@@ -1,3 +1,9 @@
+---
+layout: default
+title: Week 1 - Setup
+nav_order: 2
+---
+
 ## Setup 
 
 1. Download an [minipupper image](https://tuprd-my.sharepoint.com/:u:/g/personal/lbai_temple_edu/EYx-Jk2yPAFKrQ_8STaxqjwBiD1HJw8GQMWIcMAq6t8KRQ?e=yvpdk1)

@@ -1,7 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
 
 # Welcome to Minipupper
 
 This site is created using GitHub Pages with the docs folder.
 
-[Week 1](01_setup.md)  
-[Final Project](project.md)
+[Week 1](01_setup.md)
