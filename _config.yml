@@ -1,17 +1,29 @@
 title: "ROS Robot Course"
 # To this (one of these):
-theme: jekyll-theme-just-the-docs
+# Use remote_theme instead of theme
+remote_theme: just-the-docs/just-the-docs
 
-# Enable sidebar navigation
+# Enable necessary plugins
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Just the Docs specific settings (optional)
 just_the_docs:
-  logo: ""
-  aux_nav:
-    Home: 
-      - url: /
   collections:
-    docs:
-      output: true
+    tutorials:
       permalink: /:path/
+  aux_links:
+    "View on GitHub":
+      - "//github.com/your-username/your-repo"
 
-# Navigation order
-nav_order: 1
+# Exclude files you don't want processed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
