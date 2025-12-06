@@ -1,6 +1,4 @@
----
-title: "Test Page"
----
+
 # Welcome to Minipupper
 
 This site is created using GitHub Pages with the docs folder.
