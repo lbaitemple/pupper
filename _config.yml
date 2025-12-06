@@ -1,5 +1,6 @@
 title: "ROS Robot Course"
-theme: just-the-docs
+# To this (one of these):
+theme: jekyll-theme-just-the-docs
 
 # Enable sidebar navigation
 just_the_docs:
