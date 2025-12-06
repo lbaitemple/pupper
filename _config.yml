@@ -1,0 +1,16 @@
+title: "ROS Robot Course"
+theme: just-the-docs
+
+# Enable sidebar navigation
+just_the_docs:
+  logo: ""
+  aux_nav:
+    Home: 
+      - url: /
+  collections:
+    docs:
+      output: true
+      permalink: /:path/
+
+# Navigation order
+nav_order: 1
